@@ -1,0 +1,106 @@
+{
+  "boardsList": [
+    {
+      "id": 1,
+      "name": "Core JavaScript"
+    }
+  ],
+  "board": [
+    {
+      "id": 1,
+      "name": "Core JavaScript",
+      "lists": [
+        {
+          "id": 12,
+          "name": "Sprint Backlog",
+          "cards": [
+            {
+              "id": 22,
+              "text": "Setup Git Repository"
+            },
+            {
+              "id": 23,
+              "text": "Configure CI / CD with CircleCI and Heroku"
+            },
+            {
+              "id": 24,
+              "text": "Onboard Developers"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "In Progress",
+          "cards": [
+            {
+              "id": 32,
+              "text": "Setup Git Repository"
+            },
+            {
+              "id": 33,
+              "text": "Configure CI / CD with CircleCI and Heroku"
+            },
+            {
+              "id": 34,
+              "text": "Onboard Developers"
+            },
+            {
+              "id": 682831377.990909,
+              "text": "new card"
+            },
+            {
+              "id": 142681021.0042156,
+              "text": ""
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "name": "Released",
+          "cards": [
+            {
+              "id": 42,
+              "text": "Setup Git Repository"
+            },
+            {
+              "id": 43,
+              "text": "Configure CI / CD with CircleCI and Heroku"
+            },
+            {
+              "id": 44,
+              "text": "Onboard Developers"
+            }
+          ]
+        },
+        {
+          "id": 551940315.1968652,
+          "name": "React Training",
+          "cards": [
+            {
+              "id": 382636641.9605793,
+              "text": "Redux"
+            },
+            {
+              "id": 852738946.6957139,
+              "text": "Mocha, Enzyme testing"
+            },
+            {
+              "id": 853942473.6569488,
+              "text": "CircileCi, heroku"
+            }
+          ]
+        },
+        {
+          "id": 464780690.1982559,
+          "name": "my list",
+          "cards": [
+            {
+              "id": 343686658.1339667,
+              "text": "my card"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
